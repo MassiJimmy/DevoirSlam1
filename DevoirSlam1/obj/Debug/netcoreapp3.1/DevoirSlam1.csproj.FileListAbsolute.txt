@@ -1,0 +1,13 @@
+C:\Users\jimmy\source\repos\DevoirSlam1\DevoirSlam1\bin\Debug\netcoreapp3.1\DevoirSlam1.exe
+C:\Users\jimmy\source\repos\DevoirSlam1\DevoirSlam1\bin\Debug\netcoreapp3.1\DevoirSlam1.deps.json
+C:\Users\jimmy\source\repos\DevoirSlam1\DevoirSlam1\bin\Debug\netcoreapp3.1\DevoirSlam1.runtimeconfig.json
+C:\Users\jimmy\source\repos\DevoirSlam1\DevoirSlam1\bin\Debug\netcoreapp3.1\DevoirSlam1.runtimeconfig.dev.json
+C:\Users\jimmy\source\repos\DevoirSlam1\DevoirSlam1\bin\Debug\netcoreapp3.1\DevoirSlam1.dll
+C:\Users\jimmy\source\repos\DevoirSlam1\DevoirSlam1\bin\Debug\netcoreapp3.1\DevoirSlam1.pdb
+C:\Users\jimmy\source\repos\DevoirSlam1\DevoirSlam1\obj\Debug\netcoreapp3.1\DevoirSlam1.csprojAssemblyReference.cache
+C:\Users\jimmy\source\repos\DevoirSlam1\DevoirSlam1\obj\Debug\netcoreapp3.1\DevoirSlam1.AssemblyInfoInputs.cache
+C:\Users\jimmy\source\repos\DevoirSlam1\DevoirSlam1\obj\Debug\netcoreapp3.1\DevoirSlam1.AssemblyInfo.cs
+C:\Users\jimmy\source\repos\DevoirSlam1\DevoirSlam1\obj\Debug\netcoreapp3.1\DevoirSlam1.csproj.CoreCompileInputs.cache
+C:\Users\jimmy\source\repos\DevoirSlam1\DevoirSlam1\obj\Debug\netcoreapp3.1\DevoirSlam1.dll
+C:\Users\jimmy\source\repos\DevoirSlam1\DevoirSlam1\obj\Debug\netcoreapp3.1\DevoirSlam1.pdb
+C:\Users\jimmy\source\repos\DevoirSlam1\DevoirSlam1\obj\Debug\netcoreapp3.1\DevoirSlam1.genruntimeconfig.cache
